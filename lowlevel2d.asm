@@ -1,10 +1,3 @@
-######### Kevin Brito ##########
-######### 113258109 ##########
-######### kabrito ##########
-
-######## DO NOT ADD A DATA SECTION ##########
-######## DO NOT ADD A DATA SECTION ##########
-######## DO NOT ADD A DATA SECTION ##########
 
 .text
 li $t9, 0
